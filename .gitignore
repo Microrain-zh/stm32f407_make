@@ -1,0 +1,6 @@
+# 忽略f407目录下*.o,*.d文件
+build/*.o
+build/*.lst
+build/*.d
+
+
